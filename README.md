@@ -1,5 +1,3 @@
-# README for XOR Neural Network Code
-
 ## Overview
 
 This MATLAB script implements a basic two-layer neural network designed to solve the XOR problem, which is a classic non-linear classification challenge. The code utilizes backpropagation to train the network, adjusting weights to minimize the error between predicted and desired outputs.
